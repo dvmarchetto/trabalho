@@ -1,2 +1,2 @@
 # trabalho
-y
+trabalho para logica computacional
